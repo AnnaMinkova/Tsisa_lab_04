@@ -10,7 +10,7 @@
 
 Исходный код программы приведен в main.cpp. Результат работы программы приведен на скриншотах.
 
-![](https://github.com/AnnaMinkova/Tsisa_lab_04/blob/main/вывод%20программы%201.jpeg?raw=true)
+![](https://github.com/AnnaMinkova/Tsisa_lab_04/blob/main/вывод%20программы%201.jpg?raw=true)
 
 ![](https://github.com/AnnaMinkova/Tsisa_lab_04/blob/main/вывод%20программы%202.jpeg?raw=true)
 
